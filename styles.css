@@ -1,0 +1,50 @@
+h1{
+margin top: 50px;
+padding: 100px;
+text-transform: uppercase;
+color; blue;
+animation: animate__heartBeat;
+}
+
+  button{
+   width: 200px;
+    height: 40px;
+    box-shadow: inset 0px 1px 0px 0px #ffffff;
+    border-radius: 4px;
+    background-color: #d1c4d4;
+    box-shadow: 0px 2px 4px gray;
+    display: block;
+    border:3px solid #1d1d1f;
+    display: inline;
+    text-decoration: none;
+  }
+  a:link {
+    text-decoration: none;
+    color: orangered;
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color: palegreen;
+    background-color: white;
+  }
+  
+  a:hover {
+    
+    color: purple;
+    background-color: teal;
+  }
+  
+  a:active {
+    text-decoration: none;
+    color: rgb(77, 29, 41);
+    background-color: rgb(40, 48, 122);
+  }
+  
+
+
+button:hover {
+    text-decoration: none;
+    color: firebrick;
+    background-color: violet;
+}
